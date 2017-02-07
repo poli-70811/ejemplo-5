@@ -1,0 +1,11 @@
+<-- ejemplo lorem -->
+conjuntopalabras.fragmentar 'lorem'en listado>lorem6.renglon*5
+
+<-- resultado -->
+conjuntopalabras.fragmentar 'lorem'en <listado>
+	<div class="renglon">Lorem ipsum dolor sit amet, consectetur.</div>
+	<div class="renglon">Dolor consequuntur, quo nihil quaerat voluptates.</div>
+	<div class="renglon">A earum officiis similique pariatur quaerat.</div>
+	<div class="renglon">Voluptates ab et, ipsam ullam ea.</div>
+	<div class="renglon">Dolore, reiciendis. Libero suscipit aperiam eum.</div>
+</listado>
